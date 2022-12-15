@@ -4,11 +4,11 @@ import Skill from './Skill'
 function Skills() {
   return (
     <div>
-    <Skill
+    {/* <Skill
       name='Front-end'
       detail='React, Typescript'
       icon={reactIcon}
-    />
+    /> */}
     </div>
   )
 }
